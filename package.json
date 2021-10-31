@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "msdd's first package",
   "main": "index.js",
+  "bin": {
+    "msdd-test-package":"index.js"
+  },
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
