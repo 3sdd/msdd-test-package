@@ -1,6 +1,6 @@
 {
   "name": "msdd-test-package",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "msdd's first package",
   "main": "index.js",
   "bin": {
